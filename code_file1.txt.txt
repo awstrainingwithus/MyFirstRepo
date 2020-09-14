@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my line from local
+=======
+This is added from remote
+>>>>>>> d708070a260fd5c7a65aefccb22c7b283e51b345
